@@ -17,4 +17,5 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript. This 
 🔗 **Try it here:** [HTML JS Calculator](https://abhishek-a2077.github.io/html-js-calculator/)  
 
 ## Preview  
-![HTML JS Calculator Preview](images/html%20js%20calculator%20preview.jpg)  
+![HTML JS Calculator Preview](images/html_js_calculator_preview.jpg)
+
